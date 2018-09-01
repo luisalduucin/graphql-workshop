@@ -1,0 +1,17 @@
+{
+  "name": "apollo-server",
+  "version": "1.0.0",
+  "description": "An example of apollo server",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon -L server.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.0.0",
+    "graphql": "^14.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
